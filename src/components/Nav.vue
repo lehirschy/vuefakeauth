@@ -19,6 +19,11 @@
                             Login
                         </li>
                     </router-link>
+                    <router-link to="/secret">
+                        <li class="px-4 py-8 hover:cursor-pointer hover:bg-blue-100 hover:text-blue-800">
+                            Secret
+                        </li>
+                    </router-link>
                 </ul>
             </nav>
         </div>
